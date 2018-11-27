@@ -3,7 +3,7 @@
     "description": "Kokeellinen joulukalenteri",
     "repository": {
         "type": "git",
-        "url": "git://github.com/TuulaP/Advent"
+        "url": "git://github.com/TuulaP/AdventCalendar"
     },
     "license": "Apache2",
     "author": {
