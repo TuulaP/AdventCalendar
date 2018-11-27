@@ -9,5 +9,6 @@
     "author": {
         "name": "NN",
         "url": ""
-    }
+    },
+    "main": "index.php"
 }
