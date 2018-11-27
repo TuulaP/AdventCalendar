@@ -1,0 +1,13 @@
+{
+    "name": "Joulukalenteri",
+    "description": "Kokeellinen joulukalenteri",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/TuulaP/Advent"
+    },
+    "license": "Apache2",
+    "author": {
+        "name": "NN",
+        "url": ""
+    }
+}
